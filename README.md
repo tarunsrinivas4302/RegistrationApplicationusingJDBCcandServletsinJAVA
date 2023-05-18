@@ -9,4 +9,5 @@
 6)  Create RegisterDTO for Getting Data from Database to Java Application.
 
 
-After That Click On RunAsaServer .
+To run this Project.
+Right Click On Project -- > Run As Server --> Select Server 
